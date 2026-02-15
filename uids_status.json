@@ -10,7 +10,7 @@
     "success": false,
     "status": "authorized",
     "message": "UID BANIDO",
-    "authorized": false,
+    "authorized": true,
     "valid_until": "2027-02-20"
   }
 }
