@@ -8,7 +8,7 @@
   },
   "14669824815": {
     "success": false,
-    "status": "banned",
+    "status": "authorized",
     "message": "UID BANIDO",
     "authorized": false,
     "valid_until": "2027-02-20"
