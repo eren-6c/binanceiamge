@@ -1,0 +1,16 @@
+{
+  "2293090990": {
+    "success": true,
+    "status": "authorized",
+    "message": "UID autorizado",
+    "authorized": true,
+    "valid_until": null
+  },
+  "14669824815": {
+    "success": false,
+    "status": "banned",
+    "message": "UID BANIDO",
+    "authorized": false,
+    "valid_until": "2027-02-20"
+  }
+}
